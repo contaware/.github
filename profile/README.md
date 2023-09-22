@@ -1,4 +1,4 @@
-[![Contaware](../assets/contaware-header.png)](https://www.contaware.com/)
+[![Contaware](/assets/contaware-header.png)](https://www.contaware.com/)
 
 - This space is meant for the [contaware.com](https://www.contaware.com/) projects.
 
