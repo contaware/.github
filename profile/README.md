@@ -2,6 +2,8 @@
 
 - This space is meant for the [contaware.com](https://www.contaware.com/) projects.
 
-- There is a repository dedicated to ContaCam, see [here](https://github.com/frakman1/ContaCam/).
+- You can also find documents and notes related to programming meant for developers.
 
-- For other questions [contact us](https://www.contaware.com/support-contact.html).
+- There is a repository of the ContaCam app fans, see [here](https://github.com/frakman1/ContaCam/).
+
+- For other questions [contact us](https://www.contaware.com/help/support-contact.html).
